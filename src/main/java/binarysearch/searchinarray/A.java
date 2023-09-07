@@ -1,4 +1,4 @@
-package binarysearch;
+package binarysearch.searchinarray;
 
 /**
  * 704. Binary Search

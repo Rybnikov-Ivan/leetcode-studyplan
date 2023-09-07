@@ -1,4 +1,4 @@
-package binarysearch
+package binarysearch.searchinarray
 
 fun main(args: Array<String>) {
     val nums: IntArray = intArrayOf(-1, 0, 3, 5, 9, 12)
